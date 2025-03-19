@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GowthamKancharla93
-- 👀 I’m interested in Java programming,web development,and open-source projects.
-- 🌱 I’m currently learning Java programming, object-oriented design, and data structures.
+- 👀 I’m interested in python programming,web development,and open-source projects.
+- 🌱 I’m currently learning python programming, object-oriented design, and data structures.
 - 💞️ I’m looking to collaborate on Beginner-friendly Java projects, open-source projects, and coding challenges.
 - 📫 How to reach me  via email or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him.
