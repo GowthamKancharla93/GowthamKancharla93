@@ -7,7 +7,7 @@
 
 
 
-- 🔭  Completed Projects: **Quiz Game Engine, Web Scraping with BeautifulSoup**
+- 🔭  Completed Projects: **Quiz Game Engine, Web Scraping with BeautifulSoup, Stock-Market-Analysis **
 
 - 🌱 I’m currently learning: **Seaborn, Django, Flask,FastAPI, AI Agent Development**
 
