@@ -45,6 +45,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GowthamKancharla93&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GowthamKancharla93&theme=tokyonight" />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GowthamKancharla93&theme=default)
+
 </p>
 
 ---
@@ -52,6 +54,7 @@
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-kancharla-584331284)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/GowthamKancharla93)
+
 
 ---
 
