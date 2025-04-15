@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Gowtham Kancharla</h1>
-<h3 align="center">A passionate developer from Bangalore, India</h3>
 
+
+# <h1 align="center">👋 Hi there, I'm Gowtham Kancharla — Python & Data Enthusiast 🚀
+ <h3 align="center">A passionate developer from Bangalore, India</h3>
+🎓 A passionate developer from Bangalore, India, driven by curiosity and problem-solving. I love building real-world projects using Python and exploring Data Science, Web Development, and Automation.
 - 🔭 I’m currently working on: **Quiz Game Engine, Web Scraping with BeautifulSoup**
 
 - 🌱 I’m currently learning: **Seaborn, Django, Flask,FastAPI, AI Agent Development**
 
 - 👯 I’m looking to collaborate on: **Python + Data Projects**
 
-- 💬 Ask me about: **Python, OOP, Web Development, Pandas, GitHub**
-
-- 📫 How to reach me: gowthamchoudary63@gmail.com  
-- 📄 Know about my experiences:(https://github.com/GowthamKancharla93/resume.pdf)  
-- 🔗 My LinkedIn: [Gowtham Kancharla](https://www.linkedin.com/in/gowtham-kancharla-584331284)
+- 💬 Ask me about: **Python, OOP, Pandas, Numpy, Matplotlib, GitHub**
 
 ---
 
-### 🛠️ Languages and Tools:
+
+### 🛠️ Technologies & Tools:
+- **Languages**: Python, SQL, HTML, CSS
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
@@ -28,39 +28,34 @@
 
 ---
 
-### 📚 Projects
+### 💼 Projects & Highlights:
 
-- **Web Scraping with BeautifulSoup**:  
-  Built a web scraper to extract data from websites using BeautifulSoup and Python. This project helps automate data collection and is a great demonstration of web scraping techniques.
+🔹 **[Stock Market Trend Analyzer](https://github.com/GowthamKancharla93/Stock-Analysis)**
+- Moving averages, trend tracking, data visualization (Matplotlib)
 
-- **Quiz Game Engine**:  
-  A console-based Python quiz game with Multiple Choice and True/False questions, player profiles, score tracking, and PDF result generation.
+🔹 **[Quiz Game Engine](https://github.com/GowthamKancharla93/Quiz-Game-Engine)**
+- OOP-based quiz game with scoring, difficulty levels, PDF result generation
 
-- **Stock Market Data Analyzer**:  
-  A Python script that uses Pandas/NumPy to analyze stock market trends with visualizations like moving averages and significant price drops.
+🔹 **[Shopping Cart App (OOP)](https://github.com/GowthamKancharla93/Shopping-Cart)**
+- Product management, coupon system, CSV save/load, PDF bill export
+ 
+🔹 **[Web Scraping with BeautifulSoup](https://github.com/GowthamKancharla93/Webscraping-using-Beautifulsoup)** 
+--Built a web scraper to extract data from websites using BeautifulSoup & Python.            
+ ---
 
----
+### 📈 GitHub Stats:
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GowthamKancharla93&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GowthamKancharla93&theme=tokyonight" />
+![Gowtham's GitHub stats](https://github-readme-stats.vercel.app/api?username=GowthamKancharla93&show_icons=true&theme=default)
 
-
-</p>
-
----
-
-### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-kancharla-584331284)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/GowthamKancharla93)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GowthamKancharla93&theme=default)
 
 ---
 
-
-
-> *"Knowledge isn’t power until it is applied."*
+### 📬 Let's Connect!
+- 📫 Email: gowthamchoudary63@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gowtham-kancharla-584331284)  
+- 💻 [HackerRank](https://www.hackerrank.com/gowthamchoudary3)
 
 ---
 
+_"Knowledge isn’t power until it is applied."_
