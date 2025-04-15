@@ -2,7 +2,7 @@
 
 # <h1 align="center">👋 Hi there, I'm Gowtham Kancharla — Python & Data Enthusiast 🚀
  <h3 align="center">A passionate developer from Bangalore, India</h3>
-🎓 A passionate developer and  I love building real-world projects using Python and exploring Data Science, Web Development, and Automation.
+ I love building real-world projects using Python and exploring Data Science, Web Development, and Automation.
 
 
 
