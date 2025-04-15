@@ -3,6 +3,9 @@
 # <h1 align="center">👋 Hi there, I'm Gowtham Kancharla — Python & Data Enthusiast 🚀
  <h3 align="center">A passionate developer from Bangalore, India</h3>
 🎓 A passionate developer from Bangalore, India, driven by curiosity and problem-solving. I love building real-world projects using Python and exploring Data Science, Web Development, and Automation.
+
+
+
 - 🔭 I’m currently working on: **Quiz Game Engine, Web Scraping with BeautifulSoup**
 
 - 🌱 I’m currently learning: **Seaborn, Django, Flask,FastAPI, AI Agent Development**
