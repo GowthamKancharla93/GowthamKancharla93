@@ -55,7 +55,6 @@
 ### 📬 Let's Connect!
 - 📫 Email: gowthamchoudary63@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gowtham-kancharla-584331284)  
-- 💻 [HackerRank](https://www.hackerrank.com/gowthamchoudary3)
 
 ---
 
