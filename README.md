@@ -38,12 +38,9 @@
 
 🔹 **[Quiz Game Engine](https://github.com/GowthamKancharla93/Quiz-Game-Engine)**
 - OOP-based quiz game with scoring, difficulty levels, PDF result generation
-
-🔹 **[Shopping Cart App (OOP)](https://github.com/GowthamKancharla93/Shopping-Cart)**
-- Product management, coupon system, CSV save/load, PDF bill export
- 
-🔹 **[Web Scraping with BeautifulSoup](https://github.com/GowthamKancharla93/Webscraping-using-Beautifulsoup)** 
---Built a web scraper to extract data from websites using BeautifulSoup & Python.            
+🔹 **[Web Scraping using BeautifulSoup](https://github.com/GowthamKancharla93/Webscraping-using-Beautifulsoup)**
+- Extracts real-time data from websites, stores it in CSV, with options to filter and analyze scraped info
+         
  ---
 
 ### 📈 GitHub Stats:
