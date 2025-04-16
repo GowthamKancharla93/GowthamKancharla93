@@ -1,5 +1,4 @@
 
-
 # <h1 align="center">👋 Hi there, I'm Gowtham Kancharla — Python & Data Enthusiast 🚀
  <h3 align="center">A passionate developer from Bangalore, India</h3>
           
